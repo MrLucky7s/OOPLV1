@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2036
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Crtanje", "Crtanje\Crtanje.csproj", "{AC832D03-E861-447D-89F3-D3F15B1AD674}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AC832D03-E861-447D-89F3-D3F15B1AD674}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AC832D03-E861-447D-89F3-D3F15B1AD674}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AC832D03-E861-447D-89F3-D3F15B1AD674}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AC832D03-E861-447D-89F3-D3F15B1AD674}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BBF21A94-A476-4D48-90F2-0391CC185C2E}
+	EndGlobalSection
+EndGlobal
